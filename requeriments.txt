@@ -1,0 +1,3 @@
+PyMongo
+telegram
+python-telegram-bot
